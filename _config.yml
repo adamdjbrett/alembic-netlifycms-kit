@@ -55,5 +55,5 @@ collections:
     output: true
     description: "David's thoughts and ideas"
      feature_text: |
-       Welcome to David's blog
+       "Welcome to David's blog"
     feature_image: "/images/unsplash/tomas-robertson-M_duJG81Kv4-unsplash.jpg"
