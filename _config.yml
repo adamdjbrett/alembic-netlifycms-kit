@@ -41,7 +41,7 @@ navigation_header:
 - title: Contact
   url: /contact/
 - title: Search
-  url: /search/  
+  url: /search/
 
 # Footer nav
 navigation_footer:
@@ -56,4 +56,4 @@ collections:
     description: "My thoughts and ideas"
     feature_text: |
       Welcome to my blog
-    feature_image: "/images/innaguration_prayer_med-min.jpg"
+    feature_image: "/images/unsplash/tomas-robertson-M_duJG81Kv4-unsplash.jpg"
