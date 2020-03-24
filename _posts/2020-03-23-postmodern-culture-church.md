@@ -3,7 +3,7 @@ layout: post
 title: "The Space Between Postmodern Culture and The Church Today"
 categories:
 - postmodernism
-feature_image: "/images/unsplash/neonbrand-771BfGqMtTs-unsplash-300.jpg"
+feature_image: "/images/unsplash/andrew-seaman-Y3WEhjQivTI-unsplash.jpg"
 ---
 
 One of the prevailing trends in culture today is an ever growing schism between the church and culture. Increasingly people are not going to church or if they are going to church they participate in the intimate anonymity of going to church on Sunday mornings but not necessarily engaging in other parts of the life of the church.
@@ -26,4 +26,4 @@ There is not just one response that the church or Christians should have to post
 If you are interested in learning more about ways the church can respond to and learn from postmodernism consider contacting David J. Brett. He is available to speaking, teaching, and leading workshops, as well as pastoral care and counseling.
 
 
-`Church Photo by NeONBRAND on Unsplash`
+`Photo by Andrew Seaman on Unsplash`
