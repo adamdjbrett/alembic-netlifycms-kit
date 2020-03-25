@@ -15,10 +15,10 @@
 
 /* THANKS */
 
-	Theme: Stellar by HTML5 UP
-	Author: AJ | aj@lkn.io | @ajlkn
-	Web: html5up.net
-	Twitter: @ajlkn
+	Theme: Alembic Theme
+	Author: David Darnes
+	Web: darn.es
+	Twitter: @daviddarnes
 
 
 /* Credits */
@@ -39,7 +39,7 @@
 		Skel (skel.io)
 
 /* SITE */
-	Last update: 2017-04-05
+	Last update: 2020-03-24
 	Language: English
 	Doctype:HTML5/CSS3
 	IDE: Sublime Text, TextWrangler
